@@ -1,0 +1,209 @@
+TMenuletTutorial
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Info.plist MenuletTutorial/MenuletTutorial-Info.plist
+cProcessPCH /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.pth MenuletTutorial/MenuletTutorial-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.o /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.o /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial normal x86_64
+cCopyStringsFile /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/InfoPlist.strings MenuletTutorial/en.lproj/InfoPlist.strings
+cCpResource MenuletTutorial/en.lproj/Credits.rtf DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib
+cTouch /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E96E8BA00000000000000EE
+t1318512826
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E7AD7020000000000002470
+t1316673282
+s9328
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.o
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/MenuletTutorial.LinkFileList
+c000000004E970C24000000000000014F
+t1318521892
+s335
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.pth
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m
+c000000004E970BF20000000000000234
+t1318521842
+s564
+
+N/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/MenuletTutorial-Prefix.pch
+c000000004E970B7500000000000000A1
+t1318521717
+s161
+
+N/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/Credits.rtf
+c000000004E970B7500000000000001B4
+t1318521717
+s436
+
+N/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/InfoPlist.strings
+c000000004E970B75000000000000002D
+t1318521717
+s45
+
+N/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib
+c000000004E970C230000000000002256
+t1318521891
+s8790
+
+N/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m
+c000000004E970B7500000000000000FA
+t1318521717
+s250
+
+NMenuletTutorial/MenuletTutorial-Info.plist
+c000000004E970C170000000000000464
+t1318521879
+s1124
+
+CBuild AST from /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m
+r0
+
+CBuild AST from /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies512e7da44347b441^ca3585a44347b441^---0#1#0#--18"Check dependencies36"B1979D53-EB48-4AE3-A7D6-677419BFA951-
+
+CCompileC DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.o /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340214694.184667
+e340214694.559154
+r1
+xCompileC
+xDerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.md4632fa64347b441^74248fa64347b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m0000000000000000^2796"CompileC DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.o MenuletTutorial/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Admin/Desktop/MenuletTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-generated-files.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-project-headers.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/include -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/DerivedSources/x86_64 -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/DerivedSources -F/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug -include /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.d -c /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/AppDelegate.m -o /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/AppDelegate.o36"3C935E4D-E306-4159-BC0E-2084136B4AB4-
+
+CCompileC DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.o /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340214694.184092
+e340214694.557361
+r1
+xCompileC
+xDerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.o
+x/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m7d412fa64347b441^90c18ea64347b441^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m0000000000000000^2761"CompileC DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.o MenuletTutorial/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Admin/Desktop/MenuletTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-generated-files.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-project-headers.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/include -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/DerivedSources/x86_64 -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/DerivedSources -F/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug -include /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch -MMD -MT dependencies -MF /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.d -c /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/main.m -o /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/main.o36"B04FB634-DF71-45AC-9A42-B7C7D75C9071-
+
+CCompileXIB /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib
+s340214695.584248
+e340214695.626578
+r1
+xCompileXIB
+x/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib12a595a74347b441^de77a0a74347b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib0000000000000000^516"CompileXIB MenuletTutorial/en.lproj/MainMenu.xib    cd /Users/Admin/Desktop/MenuletTutorial    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/MainMenu.nib /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.7.sdk36"CBF62ABB-A667-4846-AFC6-EBCB1178E9CB-
+
+CCopyStringsFile /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/InfoPlist.strings MenuletTutorial/en.lproj/InfoPlist.strings
+s340214695.569185
+e340214695.583426
+r1
+xCopyStringsFile
+x/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/InfoPlist.strings
+xMenuletTutorial/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy MenuletTutorial/en.lproj/InfoPlist.strings53cc91a74347b441^8a5b95a74347b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/InfoPlist.strings0000000000000000^488"CopyStringsFile DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/InfoPlist.strings MenuletTutorial/en.lproj/InfoPlist.strings    cd /Users/Admin/Desktop/MenuletTutorial    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj -- MenuletTutorial/en.lproj/InfoPlist.strings36"9586B510-D195-4918-A9CA-83F293A58FDE-
+
+CCpResource MenuletTutorial/en.lproj/Credits.rtf DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf
+s340214695.569670
+e340214695.583021
+r1
+xCpResource
+xMenuletTutorial/en.lproj/Credits.rtf
+xDerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf04e691a74347b441^2d4295a74347b441^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf00f408b8deffdf42^521"CpResource MenuletTutorial/en.lproj/Credits.rtf DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/Admin/Desktop/MenuletTutorial    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/en.lproj/Credits.rtf /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Resources/en.lproj36"C26268CA-F1C8-4B5E-B0BE-9C85D305E596-
+
+CLd /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial normal x86_64
+s340214694.566690
+e340214695.560969
+r1
+xLd
+x/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial983191a64347b441^639c8fa74347b441^---0#0#0#--851"Ld DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial normal x86_64    cd /Users/Admin/Desktop/MenuletTutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug -F/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug -filelist /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/Objects-normal/x86_64/MenuletTutorial.LinkFileList -mmacosx-version-min=10.7 -fobjc-arc -framework Cocoa -o /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/MacOS/MenuletTutorial36"4A55A49F-580A-441A-91D7-9029A72C8511-
+
+CProcessInfoPlistFile /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Info.plist MenuletTutorial/MenuletTutorial-Info.plist
+s340214692.550288
+e340214692.588102
+r1
+xProcessInfoPlistFile
+x/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Info.plist
+xMenuletTutorial/MenuletTutorial-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process MenuletTutorial/MenuletTutorial-Info.plist1c4592a44347b441^0f9d96a44347b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/MenuletTutorial-Info.plist0000000000000000^571"ProcessInfoPlistFile DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Info.plist MenuletTutorial/MenuletTutorial-Info.plist    cd /Users/Admin/Desktop/MenuletTutorial    builtin-infoPlistUtility MenuletTutorial/MenuletTutorial-Info.plist -genpkginfo /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app/Contents/Info.plist36"03E21537-6CA5-4B7C-A766-73B16988CF59-
+
+CProcessPCH /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.pth MenuletTutorial/MenuletTutorial-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340214692.596393
+e340214694.177149
+r1
+xProcessPCH
+x/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.pth
+xMenuletTutorial/MenuletTutorial-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile MenuletTutorial/MenuletTutorial-Prefix.pch2b4e99a44347b441^81592da64347b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/MenuletTutorial-Prefix.pch0000000000000000^2657"ProcessPCH DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.pth MenuletTutorial/MenuletTutorial-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Admin/Desktop/MenuletTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-generated-files.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-own-target-headers.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-all-target-headers.hmap -iquote /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/MenuletTutorial-project-headers.hmap -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/include -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/DerivedSources/x86_64 -I/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Intermediates/MenuletTutorial.build/Debug/MenuletTutorial.build/DerivedSources -F/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug -c /Users/Admin/Desktop/MenuletTutorial/MenuletTutorial/MenuletTutorial-Prefix.pch -o /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/PrecompiledHeaders/MenuletTutorial-Prefix-bjccerjfzejokdashvsrinymdyzg/MenuletTutorial-Prefix.pch.d36"E74CACDA-9CE9-4088-9983-0A77AA4BC258-
+
+CProcessPCH /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Index/PrecompiledHeaders/MenuletTutorial-Prefix-beqvtbnpuumkbgbjurrlqlgkxzcc_ast/MenuletTutorial-Prefix.pch.pth MenuletTutorial/MenuletTutorial-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app
+s340214695.635300
+e340214695.675358
+r1
+xTouch
+x/Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app5bb6a2a74347b441^3df1aca74347b441^---0#0#0#--247"Touch DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app    cd /Users/Admin/Desktop/MenuletTutorial    /usr/bin/touch -c /Users/Admin/Desktop/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/MenuletTutorial.app36"24162461-567E-466C-AB0B-57EBF85037B1-
+

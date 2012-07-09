@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8401AE3D144742F500F55FE9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8401AE3C144742F500F55FE9 /* Cocoa.framework */; };
+		8401AE47144742F500F55FE9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8401AE45144742F500F55FE9 /* InfoPlist.strings */; };
+		8401AE49144742F500F55FE9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8401AE48144742F500F55FE9 /* main.m */; };
+		8401AE4D144742F500F55FE9 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 8401AE4B144742F500F55FE9 /* Credits.rtf */; };
+		8401AE50144742F500F55FE9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8401AE4F144742F500F55FE9 /* AppDelegate.m */; };
+		8401AE53144742F500F55FE9 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8401AE51144742F500F55FE9 /* MainMenu.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8401AE38144742F500F55FE9 /* MenuletTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MenuletTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8401AE3C144742F500F55FE9 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		8401AE3F144742F500F55FE9 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		8401AE40144742F500F55FE9 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		8401AE41144742F500F55FE9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8401AE44144742F500F55FE9 /* MenuletTutorial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MenuletTutorial-Info.plist"; sourceTree = "<group>"; };
+		8401AE46144742F500F55FE9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8401AE48144742F500F55FE9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8401AE4A144742F500F55FE9 /* MenuletTutorial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MenuletTutorial-Prefix.pch"; sourceTree = "<group>"; };
+		8401AE4C144742F500F55FE9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		8401AE4E144742F500F55FE9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8401AE4F144742F500F55FE9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8401AE52144742F500F55FE9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8401AE35144742F500F55FE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8401AE3D144742F500F55FE9 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8401AE2D144742F400F55FE9 = {
+			isa = PBXGroup;
+			children = (
+				8401AE42144742F500F55FE9 /* MenuletTutorial */,
+				8401AE3B144742F500F55FE9 /* Frameworks */,
+				8401AE39144742F500F55FE9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8401AE39144742F500F55FE9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8401AE38144742F500F55FE9 /* MenuletTutorial.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8401AE3B144742F500F55FE9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8401AE3C144742F500F55FE9 /* Cocoa.framework */,
+				8401AE3E144742F500F55FE9 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8401AE3E144742F500F55FE9 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8401AE3F144742F500F55FE9 /* AppKit.framework */,
+				8401AE40144742F500F55FE9 /* CoreData.framework */,
+				8401AE41144742F500F55FE9 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		8401AE42144742F500F55FE9 /* MenuletTutorial */ = {
+			isa = PBXGroup;
+			children = (
+				8401AE4E144742F500F55FE9 /* AppDelegate.h */,
+				8401AE4F144742F500F55FE9 /* AppDelegate.m */,
+				8401AE51144742F500F55FE9 /* MainMenu.xib */,
+				8401AE43144742F500F55FE9 /* Supporting Files */,
+			);
+			path = MenuletTutorial;
+			sourceTree = "<group>";
+		};
+		8401AE43144742F500F55FE9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8401AE44144742F500F55FE9 /* MenuletTutorial-Info.plist */,
+				8401AE45144742F500F55FE9 /* InfoPlist.strings */,
+				8401AE48144742F500F55FE9 /* main.m */,
+				8401AE4A144742F500F55FE9 /* MenuletTutorial-Prefix.pch */,
+				8401AE4B144742F500F55FE9 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8401AE37144742F500F55FE9 /* MenuletTutorial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8401AE56144742F500F55FE9 /* Build configuration list for PBXNativeTarget "MenuletTutorial" */;
+			buildPhases = (
+				8401AE34144742F500F55FE9 /* Sources */,
+				8401AE35144742F500F55FE9 /* Frameworks */,
+				8401AE36144742F500F55FE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MenuletTutorial;
+			productName = MenuletTutorial;
+			productReference = 8401AE38144742F500F55FE9 /* MenuletTutorial.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8401AE2F144742F400F55FE9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = UCO;
+			};
+			buildConfigurationList = 8401AE32144742F400F55FE9 /* Build configuration list for PBXProject "MenuletTutorial" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8401AE2D144742F400F55FE9;
+			productRefGroup = 8401AE39144742F500F55FE9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8401AE37144742F500F55FE9 /* MenuletTutorial */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8401AE36144742F500F55FE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8401AE47144742F500F55FE9 /* InfoPlist.strings in Resources */,
+				8401AE4D144742F500F55FE9 /* Credits.rtf in Resources */,
+				8401AE53144742F500F55FE9 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8401AE34144742F500F55FE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8401AE49144742F500F55FE9 /* main.m in Sources */,
+				8401AE50144742F500F55FE9 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8401AE45144742F500F55FE9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8401AE46144742F500F55FE9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8401AE4B144742F500F55FE9 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8401AE4C144742F500F55FE9 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		8401AE51144742F500F55FE9 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8401AE52144742F500F55FE9 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8401AE54144742F500F55FE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8401AE55144742F500F55FE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8401AE57144742F500F55FE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MenuletTutorial/MenuletTutorial-Prefix.pch";
+				INFOPLIST_FILE = "MenuletTutorial/MenuletTutorial-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8401AE58144742F500F55FE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MenuletTutorial/MenuletTutorial-Prefix.pch";
+				INFOPLIST_FILE = "MenuletTutorial/MenuletTutorial-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8401AE32144742F400F55FE9 /* Build configuration list for PBXProject "MenuletTutorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8401AE54144742F500F55FE9 /* Debug */,
+				8401AE55144742F500F55FE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8401AE56144742F500F55FE9 /* Build configuration list for PBXNativeTarget "MenuletTutorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8401AE57144742F500F55FE9 /* Debug */,
+				8401AE58144742F500F55FE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8401AE2F144742F400F55FE9 /* Project object */;
+}

@@ -1,0 +1,30 @@
+Contents of /Users/Kyle/Downloads/MenuletTutorial/MenuletTutorial/MenuletTutorial-Prefix.pch
+3.1 (tags/Apple/clang-318.0.58) (based on LLVM 3.1svn)
+x86_64-apple-darwin11.3.0
+-x
+objective-c
+-arch
+x86_64
+-fmessage-length=0
+-std=gnu99
+-fobjc-arc
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+-fasm-blocks
+-mmacosx-version-min=10.7
+-g
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-iquote
+-iquote
+-I/Users/Kyle/Downloads/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug/include
+-F/Users/Kyle/Downloads/MenuletTutorial/DerivedData/MenuletTutorial/Build/Products/Debug
+-ferror-limit=10
+-working-directory=/Users/Kyle/Downloads/MenuletTutorial
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=11D50a
